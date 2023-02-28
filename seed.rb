@@ -1,0 +1,4 @@
+Product.create(product_id:1, product_name: IphoneXS, description:The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface,price: 200)
+Product.create(product_id:2, product_name: Samsung, description: ranked 1 in Overall Product Quality and Service Quality for TVs and Home Appliances in the 2022 American Customer Satisfaction Index Survey,price: 600)
+Product.create(product_id:3, product_name: Tecno, description:TECNO created its first quad SIM mobile phone 4 Runner, which was a hit in Africa,price: 400)
+Product.create(product_id:4, product_name: Infix, description:The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface,price: 500)
